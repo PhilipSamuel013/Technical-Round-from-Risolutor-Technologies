@@ -1,0 +1,14 @@
+D:\philip\task\stringindex\bin\Debug\net8.0\StringIndex.exe
+D:\philip\task\stringindex\bin\Debug\net8.0\StringIndex.deps.json
+D:\philip\task\stringindex\bin\Debug\net8.0\StringIndex.runtimeconfig.json
+D:\philip\task\stringindex\bin\Debug\net8.0\StringIndex.dll
+D:\philip\task\stringindex\bin\Debug\net8.0\StringIndex.pdb
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.AssemblyInfoInputs.cache
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.AssemblyInfo.cs
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.csproj.CoreCompileInputs.cache
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.dll
+D:\philip\task\stringindex\obj\Debug\net8.0\refint\StringIndex.dll
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.pdb
+D:\philip\task\stringindex\obj\Debug\net8.0\StringIndex.genruntimeconfig.cache
+D:\philip\task\stringindex\obj\Debug\net8.0\ref\StringIndex.dll

@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container">
+    <button id="likeButton" class="like-button" onclick="toggleLike()">
+        Like | <span id="likesCounter" class="likes-counter">100</span>
+    </button>
+</div>
+
+@section Scripts {
+    <script>
+        let isLiked = false;
+        let likeCount = 100;
+
+        function toggleLike() {
+            isLiked = !isLiked;
+            likeCount = isLiked ? likeCount + 1 : likeCount - 1;
+            
+            document.getElementById("likesCounter").innerText = likeCount;
+            const likeButton = document.getElementById("likeButton");
+            
+            if (isLiked) {
+                likeButton.classList.add('liked');
+            } else {
+                likeButton.classList.remove('liked');
+            }
+        }
+    </script>
+}
